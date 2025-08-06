@@ -1,6 +1,6 @@
 # О себе :sunglasses:
 
-![Кайсар Ануарбек](Downloads/Untitled.jpeg)
+![Кайсар Ануарбек](https://raw.githubusercontent.com/kaisar93/intensive-devops-agile/main/Kaisar.Anuarbek/Untitled.jpeg))
 
 - Меня зовут Кайсар Ануарбек, мне 32 года. У меня 2 образования, геолог и авиационный инженер. **2 года назад закончил обучение в школе программирования Alem. Обучение там было на языке golang**. 
 - В данный момент работаю директором цветочного магазина. 
